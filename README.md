@@ -1,3 +1,5 @@
+Who I am?
+
 - 👋 Hi, I’m Edson.
 - 🔍 Data Analyst.
 - 🧪 Data Science student.
@@ -5,7 +7,12 @@
 - 👓 I’m looking to collaborate on any DS project.
 
 Skills
-- 
+
+-  🐍 Python
+-  🗄  SQL
+-  📊 Power BI
+-  ⚙️ Machine Learning
+-  📈 Data Visualization
 
 <!---
 edeodato/edeodato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
