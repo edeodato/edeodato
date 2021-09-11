@@ -5,7 +5,7 @@
 - 📘 I’m currently learning Data Science skills like ML.
 - 👓 I’m looking to collaborate on any DS project.
 
-Skills  🤹 
+### Skills  🤹 
 
 -  🐍 Python.
 -  🗄  SQL.
@@ -13,7 +13,7 @@ Skills  🤹
 -  ⚙️ Machine Learning.
 -  📈 Data Visualization.
 
-Find me  🔭 
+### Find me  🔭 
 
 - [Linkedin](https://www.linkedin.com/in/edson-deodato/)
 <!---
