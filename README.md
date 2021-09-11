@@ -5,6 +5,7 @@
 - 📘 I’m currently learning Data Science skills like ML.
 - 👓 I’m looking to collaborate on any DS project.
 
+
 ### Skills  🤹 
 
 -  🐍 Python.
@@ -12,6 +13,7 @@
 -  📊 Power BI.
 -  ⚙️ Machine Learning.
 -  📈 Data Visualization.
+
 
 ### Find me  🔭 
 
