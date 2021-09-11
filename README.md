@@ -8,11 +8,11 @@ Who I am?
 
 Skills
 
--  🐍 Python
--  🗄  SQL
--  📊 Power BI
--  ⚙️ Machine Learning
--  📈 Data Visualization
+-  🐍 Python.
+-  🗄  SQL.
+-  📊 Power BI.
+-  ⚙️ Machine Learning.
+-  📈 Data Visualization.
 
 <!---
 edeodato/edeodato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
